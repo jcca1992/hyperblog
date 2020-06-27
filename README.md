@@ -6,3 +6,5 @@ Un blog increible para el curso de git y github de platzi
 * todos los comandos de git
 * el flujo de trabajo de github
 * y otras cosas mas
+
+creado por julio cesar
