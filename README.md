@@ -8,3 +8,5 @@ Un blog increible para el curso de git y github de platzi
 * y otras cosas mas
 
 creado por julio cesar
+
+incluye ejemplos
